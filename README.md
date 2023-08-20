@@ -9,7 +9,7 @@
 
 ## Ссылки на проект
 
-IP-адрес https://158.160.48.129/login
+IP-адрес https://158.160.48.129/
 
 Frontend https://front746.nomoreparties.co/
 
